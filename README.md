@@ -1,1 +1,1 @@
-# Finance-Tracker
+# FINANCE TRACKER - MLH [GHW AI/ML Week 2025]
